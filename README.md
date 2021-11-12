@@ -31,7 +31,7 @@
 
 ---
 
-- [김민재](https://github.com/minjamie) : 초기 세팅 및 Database Model 구성 그리고 Search API & Jobs API & Feed API 구현
+- [김민재](https://github.com/minjamie) : 초기 세팅 및 Database Model 구성 그리고 Search API & Jobs API & Feed API 구현 & Docker를 활용한 백앤드 배포
 - [김재원](https://github.com/jambottle) : SignUp/SignIn API 및 소셜 로그인 구현
 - [김진성](https://github.com/jsung1103) : Prisma Schema 작성 및 MyProfile API 구현
 
