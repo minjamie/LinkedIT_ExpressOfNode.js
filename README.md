@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=0SEaP6M2wdg
 
 
-[![[LinkedIT] Demo 영상](./public/images/readme_demo_thumbnail.png)](https://youtu.be/0SEaP6M2wdg)
+[![[LinkedIT] Demo 영상]()](https://youtu.be/0SEaP6M2wdg)
 
 ### 🗓 기간
 
