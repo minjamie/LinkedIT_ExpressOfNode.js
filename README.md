@@ -1,8 +1,8 @@
-# LinkedIT -end 소개
+# LinkedIT Front-end 소개
 
 - 비즈니스 전문 소셜 미디어 '[링크드인(LinkedIn)](https://www.linkedin.com/)'을 클론 코딩한 프로젝트입니다.
 - 아래 이미지를 클릭하면, 본 프로젝트의 Demo 영상을 시청할 수 있습니다.
-  [![[LinkedIT] Demo 영상](./public/images/readme_thumbnail.png)](https://vimeo.com/634975398)
+  [![[LinkedIT] Demo 영상](./public/images/readme_demo_thumbnail.png)](https://youtu.be/0SEaP6M2wdg)
 
 ### 🗓 기간
 
@@ -14,8 +14,30 @@
 
 ---
 
-- `Front-end`: React, React-Hooks, React-Router, Styled-Component
-- `Back-end`: Node.js, Express, MySQL, Prisma, Bcrypt, JWT, Jest
+#### `Front-end`
+
+<p float="left">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" alt="React" style="display:inline-block; width:30px; margin-right:5px; margin-left:40px">
+  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/128/hook_icon_138483.png" alt="React-Hooks" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/649/PNG/128/sign_icon-icons.com_59775.png" alt="React-Router" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled-Components" style="display:inline-block; width:30px; margin-right:5px;">
+</p>
+
+React, React-Hooks, React-Router, Styled-Components
+
+#### `Back-end`
+
+<p float="left">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/nodejs_logo_icon_169910.png" alt="Node.js" style="display: inline-block; width: 30px; margin-right: 5px; margin-left:40px">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/express_original_logo_icon_146527.png" alt="Express" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_light_prisma_icon_130444.png" alt="Prisma" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/128/postman_macos_bigsur_icon_189815.png" alt="Postman" style="display:inline-block; width:30px; margin-right:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_jest_snapshot_icon_130513.png" alt="Jest" style="display:inline-block; width:30px; margin-right:5px;">
+</p>
+
+Node.js, Express, MySQL, Prisma, Postman, Jest, JWT, Bcrypt
+
 
 ### 👨‍👩‍👧‍👦 Team Front-end
 
