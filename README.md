@@ -1,12 +1,10 @@
 # LinkedIT Front-end 소개
 
 - 비즈니스 전문 소셜 미디어 '[링크드인(LinkedIn)](https://www.linkedin.com/)'을 클론 코딩한 프로젝트입니다.
-- 아래 이미지를 클릭하면, 본 프로젝트의 Demo 영상을 시청할 수 있습니다.
+- 아래 링크 클릭하면, 본 프로젝트의 Demo 영상을 시청할 수 있습니다.
 
 https://www.youtube.com/watch?v=0SEaP6M2wdg
 
-
-[![[LinkedIT] Demo 영상]()](https://youtu.be/0SEaP6M2wdg)
 
 ### 🗓 기간
 
