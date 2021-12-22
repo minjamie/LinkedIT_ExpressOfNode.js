@@ -41,23 +41,11 @@ React, React-Hooks, React-Router, Styled-Components
 Node.js, Express, MySQL, Prisma, Postman, Jest, JWT, Bcrypt
 
 
-### 👨‍👩‍👧‍👦 Team Front-end
-
----
-
-- [김시원](https://github.com/k-cool) : MyProfile(이력서) 페이지, User Card 컴포넌트
-- [김재원](https://github.com/jambottle) : Home/SignUp/SignIn 페이지, Global Footer 컴포넌트
-- [이성재](https://github.com/hanslee1) : TopNav(+검색창) 컴포넌트, Button 컴포넌트
-- [한승완](https://github.com/han0gu) : MyNetwork(인맥) & Jobs(채용공고) 페이지, Company Card 컴포넌트
-- [한지훈](https://github.com/JivenHan) : Feed(타임라인) 페이지, Floating Footer 컴포넌트
-
 ### 👨‍👩‍👧‍👦 Team Back-end
 
 ---
 
 - [김민재](https://github.com/minjamie) : 초기 세팅 및 Database Model 구성 그리고 Search API & Jobs API & Feed API 구현 & Docker를 활용한 백앤드 배포
-- [김재원](https://github.com/jambottle) : SignUp/SignIn API 및 소셜 로그인 구현
-- [김진성](https://github.com/jsung1103) : Prisma Schema 작성 및 MyProfile API 구현
 
 ### 🤝 Front-end Repository
 
