@@ -56,6 +56,7 @@ https://github.com/wecode-bootcamp-korea/fullstack2-2nd-Linked-IT-Frontend
 ### 🤝 MODELING DB DIAGRAM 
  
 https://dbdiagram.io/d/6176b8da6239e14647819222 
+![LINKED IT (1)](https://user-images.githubusercontent.com/81890292/147029526-88470a9f-55f0-4967-b6ae-2d512bf7f35b.png)
 
 ### 🤝 API DOCUMENTARY
 
